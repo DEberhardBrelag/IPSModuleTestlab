@@ -1,0 +1,11 @@
+{
+	"id": "{484808C8-31D8-4F02-97E2-59DABC64DB13}",
+	"name": "OAuthSonos",
+	"type": 0,
+	"vendor": "",
+	"aliases": [],
+	"parentRequirements": [],
+	"childRequirements": [],
+	"implemented": [],
+	"prefix": "OASON"
+}

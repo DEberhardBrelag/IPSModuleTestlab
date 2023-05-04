@@ -1,0 +1,12 @@
+{
+    "id": "{5AE44BA2-DB2E-BDF6-0AB1-3ADE1D1B329C}",
+    "name": "BaseModuleUtils",
+    "type": 3,
+    "vendor": "",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "BMU",
+    "url": "https://github.com/DEberhardBrelag/IPSModuleTestlab"
+}

@@ -1,0 +1,10 @@
+{
+  "actions": [
+    {
+      "type": "Button",
+      "label": "Register",
+      "onClick": "echo OASON_Register($id);"
+    },
+    { "type": "Label", "name": "Token", "caption": "Token" }
+  ]
+}
